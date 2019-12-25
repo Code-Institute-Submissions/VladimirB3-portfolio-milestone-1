@@ -1,4 +1,6 @@
-header {
-    color: #bada55;
-    font-weight: 700;
+@import url('https://fonts.googleapis.com/css?family=Exo+2&display=swap');
+
+/*-----------------------------------------------------------------------------Margins, Padding, Special*/
+.container-fluid {
+    padding: 30px 30px;
 }
