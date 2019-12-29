@@ -1,25 +1,50 @@
-@import url('https://fonts.googleapis.com/css?family=Exo+2&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Electrolize&display=swap');
 
 /*-----------------------------------------------------------------------------Margins, Padding, Special*/
 .container-fluid {
-    padding: 30px 30px;
+    padding: 0;
 }
 
-.nav-brand {
-}
 
 /*-----------------------------------------------------------------------------Navigation*/
 
 .navigation-group {
+    font-family: "Electrolize", sans-serif;
+    padding: 10px;
+    margin-right: 80px;
 }
 
-/*-----------------------------------------------------------------------------Buttons*/
+.navigation-group a {
+    font-weight: none;
+    font-size: 20px;
+    color: #444;
+}
+
+.logo a {
+    font-family: "Electrolize", sans-serif;
+    font-size: 25px;
+    color: #444;
+    margin-left: 50px;
+}
+
+/*-----------------------------------------------------------------------------Headings and Paragraphs*/
+
+.heading {
+    font-family: "Electrolize", sans-serif;
+    padding: 0;
+}
+
+.paragraph {
+    font-family: "Electrolize", sans-serif;
+    padding: 0px 30px 0px 30px;
+}
+
 
 /*-----------------------------------------------------------------------------Main Screen*/
 
 .left-screen, .right-screen {
     width: 100%;
-    height: 100vh;
+    height: 80vh;
 }
 
 .left-screen {
@@ -28,4 +53,42 @@
 
 .right-screen {
     background-color: red;
+}
+
+/*-----------------------------------------------------------------------------Footer*/
+
+.copyright p {
+    font-family: "Eletrolize", sans-serif;
+    font-size: 15px;
+    color: #444;
+}
+
+
+/*-----------------------------------------------------------------------------Social Media Sidebar*/
+
+
+.left-sidebar {
+    position: fixed;
+    top: 50%;
+    z-index: 999;
+}
+
+.left-sidebar ul {
+    border: none;
+}
+
+.left-sidebar i.fa {
+    padding: 0;
+    font-size: 20px;
+    color: #444;
+}
+
+.left-sidebar li {
+    border-radius: 10%;
+    width: 60px;
+    transition: .5s;
+}
+
+.left-sidebar li:hover {
+    width: 80px;
 }
