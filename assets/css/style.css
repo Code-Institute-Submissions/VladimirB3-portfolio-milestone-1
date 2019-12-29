@@ -27,16 +27,28 @@
     margin-left: 50px;
 }
 
+.menubutton {
+    padding: 15px;
+    border: none;
+    margin-left: 80%;
+}
+
 /*-----------------------------------------------------------------------------Headings and Paragraphs*/
 
 .heading {
     font-family: "Electrolize", sans-serif;
-    padding: 0;
+    padding: 20px;
 }
 
 .paragraph {
     font-family: "Electrolize", sans-serif;
     padding: 0px 30px 0px 30px;
+    margin-left: 70px;
+}
+
+.cvbutton {
+    font-family: "Electrolize", sans-serif;
+    margin-left: 60%;
 }
 
 
@@ -57,9 +69,10 @@
 
 /*-----------------------------------------------------------------------------Footer*/
 
-.copyright {
+.copyright p {
     font-family: "Eletrolize", sans-serif;
     font-size: 15px;
+    padding: 20px;
     color: #444;
 }
 
@@ -69,12 +82,13 @@
 
 .left-sidebar {
     position: fixed;
-    top: 50%;
+    top: 70%;
     z-index: 999;
 }
 
 .left-sidebar ul {
     border: none;
+    list-style: none;
 }
 
 .left-sidebar i.fa {
@@ -85,7 +99,7 @@
 
 .left-sidebar li {
     border-radius: 10%;
-    width: 60px;
+    width: 30px;
     transition: .5s;
 }
 
