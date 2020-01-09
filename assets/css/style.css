@@ -31,6 +31,7 @@
     padding: 15px;
     border: none;
     margin-left: 80%;
+
 }
 
 /*-----------------------------------------------------------------------------Headings and Paragraphs*/
@@ -60,7 +61,7 @@
 }
 
 .left-screen {
-    background-color: #bada55;
+    background-color: #fafafa;
 }
 
 .right-screen {
@@ -117,8 +118,8 @@
 }
 
 .picfill img {
-    min-width: auto;
-    min-height: auto;
+    min-width: 50%;
+    min-height: 50%;
     width: 100%;
     height: auto;
     background-size: cover;
