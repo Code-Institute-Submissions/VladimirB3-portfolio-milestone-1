@@ -65,7 +65,7 @@
 }
 
 .right-screen {
-    background-color: red;
+    background-color: #ffd300;
 }
 
 /*-----------------------------------------------------------------------------Footer*/
@@ -83,8 +83,9 @@
 
 .left-sidebar {
     position: fixed;
-    top: 70%;
+    top: 65%;
     z-index: 999;
+    text-align: center;
 }
 
 .left-sidebar ul {
@@ -93,19 +94,20 @@
 }
 
 .left-sidebar i.fa {
-    padding: 0;
+    padding: 5px;
     font-size: 20px;
-    color: #444;
+    color: #ffd300;
 }
 
 .left-sidebar li {
+    background-color: #444;
     border-radius: 10%;
     width: 30px;
     transition: .5s;
 }
 
 .left-sidebar li:hover {
-    width: 80px;
+    width: 60px;
 }
 
 /*-----------------------------------------------------------------------------Pictures*/
