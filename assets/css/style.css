@@ -22,9 +22,16 @@
 
 .logo a {
     font-family: "Electrolize", sans-serif;
+    color: rgba(0,0,0,.9);
     font-size: 25px;
-    color: #444;
+    font-weight: 800;
     margin-left: 50px;
+    background-color: #fafafa;
+}
+
+.logo a i {
+    font-size: 35px;
+    color: rgba(0,0,0,.9);
 }
 
 .menubutton {
