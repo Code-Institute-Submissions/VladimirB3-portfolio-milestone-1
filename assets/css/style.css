@@ -106,3 +106,17 @@
 .left-sidebar li:hover {
     width: 80px;
 }
+
+/*-----------------------------------------------------------------------------Pictures*/
+
+.picfill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.picfill img {
+    min-width: 100%;
+    min-height: 100%;
+}
