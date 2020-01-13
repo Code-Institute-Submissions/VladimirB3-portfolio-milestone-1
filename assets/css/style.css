@@ -87,6 +87,10 @@
     text-align: center;
 }
 
+.author {
+    text-align: right;
+}
+
 .copyright p {
     font-family: "Electrolize", sans-serif;
     font-size: 15px;
