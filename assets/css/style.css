@@ -60,6 +60,7 @@
 
 .abouthead {
     font-family: "Electrolize", sans-serif;
+    font-size: 30px;
     align-items: start;
     padding: 150px 0 50px 0;
     margin-left: 90px;
@@ -101,6 +102,11 @@
 
 .bg-color {
     background-color: #ffd300;
+}
+
+.skills-list {
+    font-family: "Electrolize", sans-serif;
+    font-size: 20px;
 }
 
 /*-----------------------------------------------------------------------------Footer*/
