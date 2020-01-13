@@ -58,6 +58,13 @@
     margin-left: 60%;
 }
 
+.abouthead {
+    font-family: "Electrolize", sans-serif;
+    align-items: start;
+    padding: 150px 0 20px 0;
+    margin-left: 90px;
+}
+
 
 /*-----------------------------------------------------------------------------Main Screen*/
 
@@ -71,6 +78,26 @@
 }
 
 .right-screen {
+    background-color: #ffd300;
+}
+
+.progress-block {
+    padding: 0 10px 0 90px;
+    font-family: "Electrolize", sans-serif;
+    color: #444;
+    font-size: 10px;
+}
+
+.recepie {
+    color: black;
+    text-align: left;
+}
+
+.recepie i {
+    text-align: right;
+}
+
+.bg-color {
     background-color: #ffd300;
 }
 
