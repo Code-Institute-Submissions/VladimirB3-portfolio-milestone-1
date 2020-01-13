@@ -77,6 +77,16 @@
 
 /*-----------------------------------------------------------------------------Footer*/
 
+.quote {
+    font-family: "Electrolize", sans-serif;
+    padding: 10px 100px 10px 100px;
+    margin-top: 20px;
+}
+
+.quotetext {
+    text-align: center;
+}
+
 .copyright p {
     font-family: "Electrolize", sans-serif;
     font-size: 15px;
