@@ -85,10 +85,11 @@
 
 .quotetext {
     text-align: center;
+    font-size: 15px;
 }
 
-.author {
-    text-align: right;
+.quote h5 {
+    margin-left: 70%;
 }
 
 .copyright p {
