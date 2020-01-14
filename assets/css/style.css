@@ -125,11 +125,41 @@
     list-style: none;
 }
 
-.box {
+.box1 {
     width: 250px;
     height: 250px;
-    
+    background-color: #ffd300;
 }
+
+.box1 h5 {
+    font-family: "Electrolize", sans-serif;
+    color: #444;
+}
+
+.box1 p {
+    font-family: "Electrolize", sans-serif;
+    color: #444;
+    font-size: 15px;
+}
+
+.box2 {
+    width: 250px;
+    height: 250px;
+    background-color: #fafafa;
+}
+
+.box2 h5 {
+    font-family: "Electrolize", sans-serif;
+    color: #444;
+}
+
+.box2 p {
+    font-family: "Electrolize", sans-serif;
+    color: #444;
+    font-size: 15px;
+}
+
+
 
 /*-----------------------------------------------------------------------------Footer*/
 
