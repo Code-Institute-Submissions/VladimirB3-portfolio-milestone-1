@@ -64,6 +64,7 @@
     align-items: start;
     padding: 150px 0 50px 0;
     margin-left: 90px;
+    color: #444;
 }
 
 
@@ -81,6 +82,8 @@
 .right-screen {
     background-color: #ffd300;
 }
+
+/*-----------------------------------------------------------------------------About Page*/
 
 .progress-block {
     padding: 0 10px 0 90px;
@@ -105,9 +108,9 @@
 }
 
 .skills-list {
-    font-family: "Electrolize", sans-serif;
-    font-size: 20px;
+    font-size: 15px;
 }
+
 
 /*-----------------------------------------------------------------------------Footer*/
 
