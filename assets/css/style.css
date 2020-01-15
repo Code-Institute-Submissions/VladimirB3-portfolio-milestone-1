@@ -19,25 +19,22 @@
     color: #444;
 }
 
-.logo a {
+.logo {
     font-family: "Electrolize", sans-serif;
     color: rgba(0,0,0,.9);
     font-size: 25px;
     font-weight: 800;
-    margin-left: 50px;
+    margin-left: 30px;
     background-color: #fafafa;
 }
 
-.logo a i {
+.logo i {
     font-size: 35px;
     color: rgba(0,0,0,.9);
 }
 
 .menubutton {
-    padding: 15px;
-    border: none;
-    margin-left: 80%;
-
+    margin-right: 35px;
 }
 
 /*-----------------------------------------------------------------------------Headings and Paragraphs*/
@@ -69,7 +66,7 @@
 }
 
 
-/*-----------------------------------------------------------------------------Main Screen*/
+/*-----------------------------------------------------------------------------Home Page*/
 
 .left-screen, .right-screen {
     width: 100%;
@@ -255,5 +252,4 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-
 }
