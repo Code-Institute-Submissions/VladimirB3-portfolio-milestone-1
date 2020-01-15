@@ -42,9 +42,10 @@
 
 /*-----------------------------------------------------------------------------Headings and Paragraphs*/
 
-.heading {
+.heading1 {
     font-family: "Electrolize", sans-serif;
-    padding: 20px;
+    padding-left: 70px;
+
 }
 
 .paragraph {
