@@ -159,7 +159,20 @@
     font-size: 15px;
 }
 
+/*-----------------------------------------------------------------------------About Page*/
 
+.form-group {
+    width: 100%;
+    height: 100%;
+    font-family: "Electrolize", sans-serif;
+}
+
+.contactme {
+    font-family: "Electrolize", sans-serif;
+    color: #444;
+    list-style: none;
+    font-size: 20px;
+}
 
 /*-----------------------------------------------------------------------------Footer*/
 
