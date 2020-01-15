@@ -55,7 +55,7 @@
 
 .cvbutton {
     font-family: "Electrolize", sans-serif;
-    margin-left: 60%;
+    margin-left: 50%;
 }
 
 .abouthead {
@@ -159,7 +159,7 @@
     font-size: 15px;
 }
 
-/*-----------------------------------------------------------------------------About Page*/
+/*-----------------------------------------------------------------------------Contact Page*/
 
 .form-group {
     width: 100%;
@@ -172,6 +172,11 @@
     color: #444;
     list-style: none;
     font-size: 20px;
+}
+
+.callme {
+    color: black;
+    font-size: 25px;
 }
 
 /*-----------------------------------------------------------------------------Footer*/
