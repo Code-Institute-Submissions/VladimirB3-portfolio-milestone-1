@@ -52,39 +52,66 @@ To accommodate what the UX should be certain requirements have been set. These a
 ## UI structure
 
 After understanding the requirements and taking into consideration best design practices the structure of the website was clear.
+
 •	Home Page – divided into two large sections; containing a large picture of the developer and a brief pitch with the ability to download the CV straight away. Stylized logo of the developer in the navigation bar and a quote in the footer.
+
 •	About Page – divided into two large sections; showing off skills and work ethics of the developer visually, as well as text.
+
 •	Portfolio Page – showing of past projects to give a scope of the profile holders abilities.
+
 •	Contact Page – hosting a number of means to contact the developer.
+
 •	Navigation and social links are fixed.
+
 A ruff model was created for this profile website in MS Paint and is available as a .jpg file in the repository. Minor adjustments and changes are present in the final version of the website.
+
 
 ## Features
 
 # Existing Features
+
 •	Navigation Bar – fixed navigation bar on top of the page allows the user to comfortably navigate through the site. The logo in the top left corner will always take the user to the home page.
+
 •	Social Links Sidebar – an animated on hover stylized and fixed to the left side of the screen Sidebar with social links is present. These include facebook, Instagram, google, pinterest, twitter, linkedin. 
+
 •	Home Page – has a Download CV button that opens up a new tab where a user can view and download developers CV.
+
 •	About Page – an animated visual representation of the coders best practices showcased as a series of progress bars.
+
 •	Portfolio Page – on this page there are examples of past projects the developer worked on represented by thumbnails with a short description. Users are encouraged to click the image which takes them to the website represented in the thumbnail via opening a new browser tab.
+
 •	Contacts Page – as well as developers contact details the page contains a small form where users can share their thoughts or leave their contact information if they want to.
 
+
 # Features Left to Implement
+
 •	Have a comments section in the Portfolio Page for past clients to rate developers work, as well as leave a comment.
+
 •	Add a small interactive gallery of the developer and interests to further open up his character to the users.
+
 •	Add an additional language (Russia) to broaden the clients spectrum.
+
 
 ## Technologies Used
 
 Several technologies have been used in the development of this personal profile website:
+
 •	HTML5 and CSS3 for structure and styling of the pages.
-•	Google Fonts where used for text editing and styling
+
+•	<a href="https://fonts.google.com/">Google Fonts</a> where used for text editing and styling
+
 •	Font Awesome was used to implement the icons
+
 •	Bootstrap was implemented in design, to make the website responsive, styling, buttons and navigation
+
 •	GitHub repository was used to store the code and site deployment
+
 •	Gitpod was used for development and version control
+
 •	W3C Markup Validation Service was used for HTML validation
+
 •	Jigsaw W3 css validator was used to validate CSS
+
 
 ## Testing
 
