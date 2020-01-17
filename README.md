@@ -264,6 +264,8 @@ purnavumuiza.lv.
 
 •	Some code was copied from Bootstrap Documentation and modified.
 
+•	This README file was drafted up using MS Word following the giudelines provided by Code Institute.
+
 ## Media
 
 •	The photo used in the Home Page is from a personal collection.
