@@ -100,96 +100,147 @@ Several technologies have been used in the development of this personal profile 
 
 •	<a href="https://fonts.google.com/">Google Fonts</a> where used for text editing and styling
 
-•	Font Awesome was used to implement the icons
+•	<a href="https://fontawesome.com/start">Font Awesome</a> was used to implement the icons
 
-•	Bootstrap was implemented in design, to make the website responsive, styling, buttons and navigation
+•	<a href="https://getbootstrap.com/">Bootstrap</a> was implemented in design, to make the website responsive, styling, buttons and navigation
 
-•	GitHub repository was used to store the code and site deployment
+•	<a href="https://github.com/">GitHub</a> repository was used to store the code and site deployment
 
-•	Gitpod was used for development and version control
+•	<a href="gitpod.io">Gitpod</a> was used for development and version control
 
-•	W3C Markup Validation Service was used for HTML validation
+•	<a href="https://validator.w3.org/">W3C Markup Validation Service</a> was used for HTML validation
 
-•	Jigsaw W3 css validator was used to validate CSS
+•	<a href="https://jigsaw.w3.org/css-validator/">Jigsaw W3</a> css validator was used to validate CSS
 
 
 # Testing
 
 ## Functional testing of the site
+
 Functional testing is designed to ensure that each function of the website works in accordance with the requirements of the specification. Testing the functionality of the website shows "What the system does."
-For this a checklist for testing website functionality is created and tested with a “Passed” or “Failed” status with a brief description of the outcome if necessary.
+For this a checklist for testing website functionality is created and tested with a “<span style="color:green">Passed</span>” or “<span style="color:red">Failed</span>” status with a brief description of the outcome if necessary.
 
 ## Links Testing
-•	Outbound Links – Passed – all links to external pages are working as intended (opened in a new tab displaying the page)
-•	The correctness of internal links – Passed – all navigation links between pages work as intended
-•	Missing links leading to one page – Passed – none
-•	Are there any non-linked pages? – Passed – none
-•	Are there any broken links – Passed – none
+
+•	Outbound Links – <span style="color:green">Passed</span> – all links to external pages are working as intended (opened in a new tab displaying the page)
+
+•	The correctness of internal links – <span style="color:green">Passed</span> – all navigation links between pages work as intended
+
+•	Missing links leading to one page – <span style="color:green">Passed</span> – none
+
+•	Are there any non-linked pages? – <span style="color:green">Passed</span> – none
+
+•	Are there any broken links – <span style="color:green">Passed</span> – none
+
 
 ## Testing Form in Contacts Page
+
 A form is used for interactive communication with the customer.
-•	Validity of input; email window – Failed – validation of input is not implemented (will be fixed in the next version)
-•	Form parameters in which deletion or other modification is possible; comments window – Passed – works as intended
-•	Placeholders are in place – Passed
-•	Send button functionality – Passed*- It is functional, but it does not communicate with any servers at the moment (It opens a new tap with a homepage instead)
+
+•	Validity of input; email window – <span style="color:red">Failed</span> – validation of input is not implemented (will be fixed in the next version)
+
+•	Form parameters in which deletion or other modification is possible; comments window – <span style="color:green">Passed</span> – works as intended
+
+•	Placeholders are in place – <span style="color:green">Passed</span>
+
+•	Send button functionality – <span style="color:green">Passed*</span>- It is functional, but it does not communicate with any servers at the moment (It opens a new tap with a homepage instead)
 
 ## HTML/CSS Validation
-•	HTML syntax errors – Passed – none (validated using W3C Markup Validation Service)
-•	CSS syntax errors – Passed – none (validated using Jigsaw W3 css validator)
+
+•	HTML syntax errors – <span style="color:green">Passed</span> – none (validated using <a href="https://validator.w3.org/">W3C Markup Validation Service</a>)
+
+•	CSS syntax errors – <span style="color:green">Passed</span> – none (validated using <a href="https://jigsaw.w3.org/css-validator/">Jigsaw W3</a> css validator)
 
 # Usability testing of the site
+
 Usability testing is designed to evaluate the web page from the perspective of the end user (UX Testing). This helps to determine whether the product meets user expectations, identifies problem areas in the interface.
+
 Navigation testing of the site is performed with following checks:
-•	All pages of the site are clear and easy to use – Passed
-•	Buttons, shapes and fields are convenient to use – Passed
-•	Access to the main menu is carried out from all pages - Passed
+
+•	All pages of the site are clear and easy to use – <span style="color:green">Passed</span>
+
+•	Buttons, shapes and fields are convenient to use – <span style="color:green">Passed</span>
+
+•	Access to the main menu is carried out from all pages - <span style="color:green">Passed</span>
+
 
 ## Content Testing
-•	No grammar, spelling errors – Passed
-•	Images are sized and placed correctly – Passed
-•	Website color palette optimization and font sizes – Passed
-•	Content is informative, understandable, structured and logically connected – Passed
-•	The instructions are clear and contain the correct information - Passed
+
+•	No grammar, spelling errors – <span style="color:green">Passed</span>
+
+•	Images are sized and placed correctly – <span style="color:green">Passed</span>
+
+•	Website color palette optimization and font sizes – <span style="color:green">Passed</span>
+
+•	Content is informative, understandable, structured and logically connected – <span style="color:green">Passed</span>
+
+•	The instructions are clear and contain the correct information - <span style="color:green">Passed</span>
+
 
 Upon evaluatin the usability of the website it can be said that the structural integrity is in place.
 The site is understandable and convenient. The navigation is intuitive and easy to understand for all types of users. 
 The impressions it makes are visually striking and stylish with no unnecessary clutter. 
-It is easy to understand what this site is trying to showcase.- Passed
+It is easy to understand what this site is trying to showcase.- <span style="color:green">Passed</span>
+
 
 # UI Testing
 
+
 User Interface testing is performed to verify that site’s graphical user interface conforms to specifications.
-•	GUI Compliance – Passed
-•	Assessment of design elements: layout, colors, fonts, font sizes, labels, text fields, text formatting, titles, buttons, lists, icons, links – Passed
-•	Testing with different screen resolutions – Passed
-•	Testing the graphical user interface on target devices: smartphones – Failed – Landscape view of Iphone XS, Pixel 2, IPhone 6-7 is not responding correctly, this will be fixed and documented appropriately (Testing made using http://www.responsinator.com/)
-•	Testing the graphical user interface on target devices: tablets – Passed
+
+•	GUI Compliance – <span style="color:green">Passed</span>
+
+•	Assessment of design elements: layout, colors, fonts, font sizes, labels, text fields, text formatting, titles, buttons, lists, icons, links – <span style="color:green">Passed</span>
+
+•	Testing with different screen resolutions – <span style="color:green">Passed</span>
+
+•	Testing the graphical user interface on target devices: smartphones – <span style="color:red">Failed</span> – Landscape view of Iphone XS, Pixel 2, IPhone 6-7 is not responding correctly, this will be fixed and documented appropriately (Testing made using http://www.responsinator.com/)
+
+•	Testing the graphical user interface on target devices: tablets – <span style="color:green">Passed</span>
+
 
 ## Compatibility Testing
 
 Compatibility testing is performed to verify the operation of the site with various software and hardware configurations. 
 
 Cross-platform testing of the site allows to evaluate the performance of the site under different operating systems (both desktop and mobile):
-•	Widows – Passed
-•	Mac OS - Passed 
-•	iOS – Passed
-•	Android – Failed – Issue with graphical user interface stated above, text merging.
+
+•	Widows – <span style="color:green">Passed</span>
+
+•	Mac OS - <span style="color:green">Passed</span>
+
+•	iOS – <span style="color:green">Passed</span>
+
+•	Android – <span style="color:red">Failed</span> – Issue with graphical user interface stated above, text merging.
+
 
 Cross-browser testing of the site helps to verify the correct operation of the site in different browser configurations:
-•	Google Chrome – Passed
-•	Mozilla Firefox – Passed
-•	Internet Explorer - Passed
+
+•	Google Chrome – <span style="color:green">Passed</span>
+
+•	Mozilla Firefox – <span style="color:green">Passed</span>
+
+•	Internet Explorer - <span style="color:green">Passed</span>
+
 
 ## Tests Summary
 
-Total number of tests: 32
-Number of successful tests: 29
-Number of failed tests: 3
+
+Total number of tests: <span style="color:yellow">32</span>
+
+Number of successful tests: <span style="color:green">29</span>
+
+Number of failed tests: <span style="color:red">3</span>
+
 
 Fixes shall be implemented and documented accordingly for the identified issues.
+
 1.	Email validity of input fix – 
+
 2.	Graphical user interface on target devices: smartphones –
+
 3.	Android merging of text issue - 
+
 
 In conclusion, the website is of sound structure and is ready to be deployed.
 
@@ -205,12 +256,24 @@ Gitpod was used for development – to run the site locally python3 -m http.serv
 
 ## Content
 
-•	For the Portfolio Page 4 websites have been used to showcase developers work – noratecsoft.com, sagatkft.com, God of War Official Website, purnavumuiza.lv.
+•	For the Portfolio Page 4 websites have been used to showcase developers work – 
+noratecsoft.com, 
+sagatkft.com, 
+https://godofwar.playstation.com/, 
+purnavumuiza.lv.
+
 •	Some code was copied from Bootstrap Documentation and modified.
 
 ## Media
 
-•	The photo used in this project is from a personal collection.
+•	The photo used in the Home Page is from a personal collection.
+
+•	The logo pictures of the company websites placed in thumbnail in Portfolio Page where cut out from their respective websites:
+noratecsoft.com, 
+sagatkft.com, 
+https://godofwar.playstation.com/, 
+purnavumuiza.lv.
+
 
 ## Acknowledgements
 
