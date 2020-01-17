@@ -13,23 +13,41 @@ The user will typically be a small to medium business owner that has decided to 
 Another user group can potentially be company that is head hunting for talent in software development as a part of a larger organization.
 As well as companies, certain individuals might look for a coder for their projects on partnership basis. 
 User Stories examples:
+
 •	As a small company owner, I want to find a developer that can provide me with the best possible personal service catering to my business needs so that I can continue to grow my business.
+
 •	As an HR manager of a large organization, there is a particular individual with particular kind of skill criteria we are looking for to start/finish/collaborate on a large scale development project.
+
 •	As an individual who has the best idea in the world, but is unable to execute on it due to lack of development skills I will consider making an offer of partnership to the coder.
+
 •	As a user I want to find out how to contact the person presented in the profile via email, skype, social links and telephone.
+
 •	As a user I want to get an idea if the developers personality, skills and professional standards are the ones I look for in a developer.
+
 •	As a potential customer I want to see previous work done by the developer to understand the quality.
+
 •	As a headhunter I need to be able to see a full CV of the developer.
+
 •	As the developer I want my users to be able to reach me.
+
 •	As the developer I want to encourage visitors to take action.
+
 To accommodate what the UX should be certain requirements have been set. These are: 
+
 1.	The profile needs showcase the developer in a professional manner.
+
 2.	Potential clients need to have enough understanding about the developer to inform their decision to contact them.
+
 3.	Users need to see a variety of example in developers portfolio.
+
 4.	Interested users have to have the ability to contact the developer for further enquiries. 
+
 5.	Interested users need to have the option to download profile holders full CV.
+
 6.	There have to be links to social media and a Contacts page to further enquire about the developer.
+
 7.	The user needs to have an understanding of developers skill set.
+
 
 ## UI structure
 
