@@ -5,6 +5,11 @@
     padding: 0;
 }
 
+h2 {
+    font-family: "Electrolize", sans-serif;
+    padding-left: 15px;
+}
+
 
 /*-----------------------------------------------------------------------------Navigation*/
 
